@@ -1,6 +1,6 @@
 {
   "name": "lerna_test_manager",
-  "version": "0.0.9-def456",
+  "version": "0.0.10-4977950.0",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -9,6 +9,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "lerna_test_utils": "^0.0.9-def456"
+    "lerna_test_utils": "^0.0.10-4977950.0"
   }
 }
