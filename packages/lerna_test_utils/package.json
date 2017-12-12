@@ -1,6 +1,6 @@
 {
   "name": "lerna_test_utils",
-  "version": "0.0.13-a373c81.0",
+  "version": "0.0.13",
   "description": "",
   "main": "index.js",
   "scripts": {
